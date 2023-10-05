@@ -1,0 +1,16 @@
+<main>
+    <section>
+        <div class=" max-w-7xl w-full mx-auto px-4  sm:px-6 lg:px-8">
+            <div class="grid grid-cols-1 lg:grid-cols-2">
+                <div class="flex items-center text-5xl font-bold "><h1>Join Our Experts Team of Creaters & Dreamers</h1></div>
+                <div><img src="https://themezhub.net/live-killar/killar/assets/img/custom-img/cr-1.png" alt=""></div>
+            </div>
+        </div>
+
+    </section>
+</main>
+
+extras:
+
+<div class="grid grid-cols-1 lg:grid-cols-2">
+grid is used for mobile view and lg for desktop view.
